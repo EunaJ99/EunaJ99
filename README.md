@@ -27,7 +27,7 @@ I hope to develop life-enhancing services. 🌟
   <img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white"/>
 </p>
 
-**Learning (= not so skilled with these but I'm not a stranger to them)**
+**Learning**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
