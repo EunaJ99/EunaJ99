@@ -1,11 +1,10 @@
 
-Hi there 👋 I'm **mobile app developer** using Android. 🚀  
-I use Android native, but currently learning cross-platform developing like Flutter.  
-I am a senior student of Seoul Women's Univercity, and will graduate in Febuary 2024.  
-With majored in Degital Media(program developing) and Chemistry, I have experiences in many science fields.  
-At present, I'm studying different platforms and languages on my own.
+Hi there 👋 I'm **Android application developer**. 🚀 
+I am a Bachelor candidate of Seoul Women's Univercity, expecting the degree this year.
+With my major in *Digital Media design and Applications* and *Chemistry*, I have experiences in many scientific fields.  
+Currently, I'm focusing to enhance some professional knowledge in Android programming.
 
-I enjoy watching musicals, writing and reading. 🎟️🖋️🔖  
+I enjoy watching musicals, writings and readings. 🎟️🖋️🔖  
 I hope to develop life-enhancing services. 🌟
 
 
