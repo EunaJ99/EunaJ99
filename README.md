@@ -1,6 +1,6 @@
 
 Hi there 👋 I'm **Android application developer**. 🚀 
-I am a Bachelor candidate of Seoul Women's Univercity, expecting the degree this year.
+I am a Bachelor candidate of Seoul Women's Univercity, expecting the degree early next year.
 With my major in *Digital Media design and Applications* and *Chemistry*, I have experiences in many scientific fields.  
 Currently, I'm focusing to enhance some professional knowledge in Android programming.
 
